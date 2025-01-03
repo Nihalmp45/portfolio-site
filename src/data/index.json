@@ -1,0 +1,77 @@
+{
+  "skills": [
+  {
+    "id": "1",
+    "src": "./img/react-image.png",
+    "title": "Front-End",
+    "description": "Building responsive and user-friendly interfaces using React.js,Next.js,CSS and modern front-end tools."
+  },
+  {
+    "id": "2",
+    "src": "./img/js.png",
+    "title": "Back-End",
+    "description": "Developing robust server-side applications with Node.js and Express.js to ensure seamless functionality."
+  },
+  {
+    "id": "3",
+    "src": "./img/react-native.png",
+    "title": "Mobile App Development",
+    "description": "Cross-platform mobile apps using React Native for optimized user experiences."
+  },
+  {
+    "id": "4",
+    "src": "./img/ux.png",
+    "title": "UI & UX Design",
+    "description": "Designing intuitive user experiences and visually appealing interfaces that enhance user engagement."
+  }
+],
+  "portfolio": [
+  {
+    "id": "1",
+    "src": "./img/social-blender.png",
+    "title": "Social Blender",
+    "description": "AI-powered SaaS platform for customized display pictures and uploading videos build Next.js, Cloudinary, MongoDB, and Tailwind CSS for seamless content management.",
+    "link": "https://socialblenderapp.vercel.app/"
+  },
+  {
+    "id": "2",
+    "src": "./img/heel-harbor2.jpeg",
+    "title": "Heel Harbor",
+    "description": "A React Native mobile app deployed on Vercel, featuring a tool to convert images for social media display pictures. Built with React Native, Zustand, and Tailwind CSS.",
+    "link": "https://github.com/Nihalmp45/heelHarbor"
+  },
+  {
+    "id": "3",
+    "src": "./img/space-tourism.png",
+    "title": "Space Tourism",
+    "description": "An interactive web platform for showcasing space tourism options with a strong focus on user experience and accessibility. Built with React.js, Zustand, and Chakra UI.",
+    "link": "https://space-tourism-chi-six.vercel.app/"
+  }
+],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
