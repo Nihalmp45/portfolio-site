@@ -26,22 +26,30 @@
   }
 ],
   "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/main-project-image.png",
+      "title": "Zen Rooms",
+      "description": "A modern hotel booking platform offering seamless reservations, real-time availability, and secure payments. Built with React, Node.js, Express, and MongoDB, featuring Stripe for payments, Redis for caching and API rate limiting, and Docker for containerized deployment.",
+      "link": "https://zen-room-new.vercel.app/"
+    },
+    
   {
-    "id": "1",
+    "id": "2",
     "src": "./img/social-blender.png",
     "title": "Social Blender",
     "description": "AI-powered SaaS platform for customized display pictures and uploading videos build Next.js, Cloudinary, MongoDB, and Tailwind CSS for seamless content management.",
     "link": "https://socialblenderapp.vercel.app/"
   },
   {
-    "id": "2",
+    "id": "3",
     "src": "./img/heel-harbor2.jpeg",
     "title": "Heel Harbor",
     "description": "A React Native mobile app deployed on Vercel, featuring a tool to convert images for social media display pictures. Built with React Native, Zustand, and Tailwind CSS.",
     "link": "https://github.com/Nihalmp45/heelHarbor"
   },
   {
-    "id": "3",
+    "id": "4",
     "src": "./img/space-tourism.png",
     "title": "Space Tourism",
     "description": "An interactive web platform for showcasing space tourism options with a strong focus on user experience and accessibility. Built with React.js, Zustand, and Chakra UI.",

@@ -750,3 +750,24 @@ input[type="checkbox"] {
   width: 50px;
 }
 /* Responsive Screens Ends*/
+.portfolio--section--container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.portfolio--section--card {
+  flex: 1 1 calc(50% - 20px); /* Default cards in 2-column layout */
+}
+
+.portfolio--section--card.featured {
+  flex: 1 1 100%; /* First card spans full width */
+}
+
+.portfolio--link {
+  cursor: pointer; /* Only the link has pointer */
+}
+
+.portfolio--section--card:hover {
+  cursor: default; /* No pointer on entire card */
+}
